@@ -14,6 +14,7 @@ Identification and handling of missing data to ensure the integrity of the analy
 Basic Statistics
 
 Key statistical metrics providing an overview of the dataset, aiding in understanding central tendencies and variations.
+
 II. Data Visualizations
 Price Histogram
 
@@ -45,6 +46,7 @@ Exploring the joint effect of processors and brands on laptop prices.
 Ram Type-Size-Price Bar Chart
 
 Investigating the combined impact of RAM size and type on laptop prices through bar charts.
+
 III. Multiple Linear Regression Model
 One Hot Encoding
 
@@ -55,6 +57,7 @@ Division of the dataset into training and testing sets to assess model performan
 Model Training
 
 Building a multiple linear regression model to predict laptop prices based on various features.
+
 IV. Other Linear Regression Models
 Ridge
 
@@ -69,6 +72,7 @@ XGBoost Regressor
 Evaluation
 
 Implementation and evaluation of various regression models to identify the most effective in predicting laptop prices.
+
 V. XGBoost Evaluation
 Hyperparameter Tuning
 
@@ -88,4 +92,5 @@ Consumers can make informed decisions based on factors like brand, specification
 Market Trends and Innovation:
 
 Industry stakeholders gain a nuanced understanding of market trends, allowing them to innovate and adapt to changing consumer preferences.
-In conclusion, this notebook is a key asset for anyone seeking to navigate the intricate landscape of laptop pricing, offering actionable insights derived from a meticulous EDA process and sophisticated regression modeling.
+
+In conclusion, this notebook is an asset for anyone seeking to navigate the intricate landscape of laptop pricing, offering actionable insights derived from a meticulous EDA process and sophisticated regression modeling.
